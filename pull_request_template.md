@@ -1,3 +1,4 @@
+<!-- This PR template is defined in: https://github.com/TheKobiCompany/.github/blob/develop/pull_request_template.md -->
 ## Changes
 Please describe your changes here.
 - Change 1
