@@ -10,9 +10,9 @@ General Checks:
   - [ ] Added code documentation where needed.
   - [ ] Added related unit-tests where beneficial.
 
-Testing Checks (see [testing guidelines](https://bosch-pt.atlassian.net/wiki/spaces/SE/pages/11466440929/Testing+Guidelines)):
+Testing Checks (see [testing guidelines]()):
   - [ ] Executed Regression tests
-  - [ ] (optional) Executed [project tests](https://github.boschdevcloud.com/indego/vision_testing/blob/feature/a2_integration/project_tester/README.md)
+  - [ ] (optional) Executed [project tests]()
   - [ ] (optional) Test on A2 Mower
 
 ## Tests
